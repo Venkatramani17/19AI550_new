@@ -81,10 +81,11 @@ public class fleeScript : MonoBehaviour
 }
 ```
 ### Output:
-![Uploading Screenshot (43).png…]()
+
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1c87325b-c50f-4cc4-a7ef-cbe7b420f39f" />
+
+
 <img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/5e6b6ebc-71d2-46fc-960f-592ce82cf40a" />
-
-
 
 
 
